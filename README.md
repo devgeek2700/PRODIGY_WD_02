@@ -20,5 +20,26 @@ I've designed a web application utilizing HTML, CSS, and JavaScript, resulting i
 ## Getting Started
 
 1. Clone the repository:
+   git clone git@github.com:devgeek2700/PRODIGY_WD_02.git
+
+2. Open `index.html` in your preferred web browser to start using the stopwatch.
+
+## Usage
+
+1. Click the "Start" button to begin the stopwatch timer.
+2. Press "Stop" to pause the timer.
+3. Use the "Reset" button to set the timer back to zero.
+4. Click "Lap" to record a lap time while the stopwatch is running.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- This project was inspired by the need for a simple stopwatch tool for various timing purposes.
+
+Feel free to contribute to the project or suggest improvements by creating issues or pull requests. Enjoy using the stopwatch web application!
+
 
 
