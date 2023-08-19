@@ -14,8 +14,6 @@ I've designed a web application utilizing HTML, CSS, and JavaScript, resulting i
 - CSS: Styling and formatting the visual elements.
 - JavaScript: Handling stopwatch functionality and interactions.
 
-## Stopwatch Webpage
-![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_02/blob/master/output.png?raw=true)
 
 ## Getting Started
 
@@ -30,6 +28,10 @@ I've designed a web application utilizing HTML, CSS, and JavaScript, resulting i
 2. Press "Stop" to pause the timer.
 3. Use the "Reset" button to set the timer back to zero.
 4. Click "Lap" to record a lap time while the stopwatch is running.
+
+## Stopwatch Webpage
+![App Screenshot](https://github.com/devgeek2700/PRODIGY_WD_02/blob/master/output.png?raw=true)
+
 
 ## License
 
