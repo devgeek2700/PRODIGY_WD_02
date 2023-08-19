@@ -9,7 +9,6 @@ I've designed a web application utilizing HTML, CSS, and JavaScript, resulting i
 - Start: Initiates the stopwatch timer.
 - Stop: Pauses the timer.
 - Reset: Resets the timer to zero.
-- Lap: Records lap times while the stopwatch is running.
 
 ## Technologies Used
 
